@@ -1,0 +1,6 @@
+database_credentials:
+  username: "your_username"
+  password: "password"
+  host: "host.database.windows.net"
+  database: "database"
+  port: "1433"
